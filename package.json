@@ -1,0 +1,16 @@
+{
+  "name": "twitter_stream",
+  "version": "1.0.0",
+  "description": "A simple twitter streaming feed. We were messing aroudn with Socket.io and Twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sophia Hudson and Jason Hills",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.1",
+    "node-tweet-stream": "^1.8.2",
+    "socket.io": "^1.3.5"
+  }
+}
